@@ -1,3 +1,17 @@
+React project - Markdown Previewer
+
+Objective - Build a live markdown previewer using HTML, CSS, React, JSX
+
+Requirements:
+-type GitHub-flavored Markdown into a text area
+-view a preview of the output of my markdown that is updated as I type
+
+HINTS:
+-no need to interpret Markdown yourself - you can import the Marked library for this: https://cdnjs.com/libraries/marked
+-if you want to use the React JSX syntax, you need to enable 'Babel' as a preprocessor
+
+--------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
